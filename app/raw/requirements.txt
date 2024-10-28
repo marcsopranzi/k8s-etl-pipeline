@@ -1,0 +1,6 @@
+yfinance==0.2.18
+pandas==1.5.3
+google-cloud-storage==2.10.0
+google-auth==2.22.0
+pyarrow==8.0.0
+fastparquet==0.8.1
