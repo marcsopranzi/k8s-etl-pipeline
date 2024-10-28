@@ -90,12 +90,3 @@ This is a proof-of-concept, and there are some vulnerabilities:
 3. **Monitoring**: Set up Google Cloud Monitoring and Logging to track the health and performance of the ETL pipeline and Airflow.
 4. **Deployment Automation**: Utilize Terraform or a similar Infrastructure as Code (IaC) tool to automate the setup process.
 
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Feel free to open issues or submit pull requests if you want to contribute. Feedback and suggestions are welcome!
-
-## Contact
-For any inquiries, reach out to [marcsopranzi@gmail.com](mailto:marcsopranzi@gmail.com).
-
