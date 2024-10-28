@@ -167,7 +167,7 @@ gcp/vm.sh
 gcp/deployment_raw.yaml
 gcp/deployment_etl.yaml
 gcp/pod-watcher-role.yaml
-gcp/pod-watcher-role-rolebinding.yaml
+gcp/pod-watcher-rolerolebinding.yaml
 
 
 # Ignore Google Cloud service account keys
