@@ -1,9 +1,4 @@
 # k8s-etl-pipeline
-This is a poc for fast creation of a scalable pipeline using kubernets in cloud storage.
-
-Vulnerabilities:
-The credentials should be handled differently when going to production and some passwords are hardcoded. 
-# k8s-etl-pipeline
 
 This is a proof-of-concept (POC) for the rapid creation of a scalable ETL (Extract, Transform, Load) data pipeline using Kubernetes, Google Cloud Storage, and related Google Cloud services.
 
